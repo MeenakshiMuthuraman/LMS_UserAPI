@@ -1,0 +1,27 @@
+{
+	"id": "1c1f7cc1-2c15-4aed-a56c-c1710ca9e1a3",
+	"name": "LMS",
+	"values": [
+		{
+			"key": "Token",
+			"value": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJzZGV0b3JnYW5pemVyc0BnbWFpbC5jb20iLCJpYXQiOjE3MDk3NDc0ODEsImV4cCI6MTcwOTc3NjI4MX0.pwyLWJONLqSEi-L6eogKYmGh5_GrARpQ8YFIERl-G02k2se_F_guUsP-3J2N83ogi-L_CRVu3TomOTXkzCloBA",
+			"type": "secret",
+			"enabled": true
+		},
+		{
+			"key": "userLoginEmailId",
+			"value": "sdetorganizers@gmail.com",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "password",
+			"value": "Numpyninja@1",
+			"type": "secret",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2024-03-06T20:30:00.914Z",
+	"_postman_exported_using": "Postman/10.23.10"
+}
